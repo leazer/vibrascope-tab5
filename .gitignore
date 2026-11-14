@@ -1,0 +1,17 @@
+.cache/
+.vscode/
+.DS_Store
+build/
+build-*/
+platforms/tab5/build*/
+platforms/tab5/managed_components/
+platforms/tab5/sdkconfig
+platforms/tab5/sdkconfig.old
+
+# Local Python environments and measurement exports
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+*.[Vv][Nn][Rr]
+*.part
